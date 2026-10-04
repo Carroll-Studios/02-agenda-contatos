@@ -16,7 +16,7 @@
 
 <br/>
 
-A **agenda-contatos** é a aplicação principal da Organização **Carroll Studios**: organiza contatos pessoais, com os favoritos exibidos em forma de constelação.
+A **agenda-contatos** organiza contatos pessoais, com os favoritos exibidos em forma de constelação.
 
 <img src="./resources/images/star-divider-2.svg" width="100%" alt="" />
 
