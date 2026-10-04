@@ -1,73 +1,73 @@
-# 📇 agenda-contatos — Carroll Studios
+<div align="center">
 
+<img src="https://img.shields.io/badge/📇_agenda--contatos-8B5CF6?style=for-the-badge&logoColor=white" alt="agenda-contatos" />
 
+<sub>✦ Carroll Studios • Projeto Final de Programação Orientada a Objetos • IFCE Maranguape • 2026.2 ✦</sub>
 
-![Java](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=620&height=30&lines=Organize+seus+contatos;Favoritos+em+forma+de+constela%C3%A7%C3%A3o" alt="Frases sobre o sistema" />
 
+</div>
 
+<img src="./resources/images/star-divider-1.svg" width="100%" alt="" />
 
-![Swing](https://img.shields.io/badge/Java_Swing-6D28D9?style=for-the-badge)
+<div align="center"><img src="https://img.shields.io/badge/🪐_Sobre%20este%20reposit%C3%B3rio-8B5CF6?style=for-the-badge&logoColor=white" alt="Sobre este repositório" /></div>
 
+<br/>
 
+A **agenda-contatos** é a aplicação principal da Organização **Carroll Studios**: organiza contatos pessoais, com os favoritos exibidos em forma de constelação.
 
+<img src="./resources/images/star-divider-2.svg" width="100%" alt="" />
 
-![MySQL](https://img.shields.io/badge/MySQL-1A1730?style=for-the-badge&logo=mysql&logoColor=E9E4FF)
+<div align="center"><img src="https://img.shields.io/badge/🎯_Objetivos-EC4899?style=for-the-badge&logoColor=white" alt="Objetivos" /></div>
 
+<br/>
 
+- Cadastrar, listar, pesquisar, atualizar e excluir contatos.
+- Aplicar os conceitos de Programação Orientada a Objetos trabalhados no semestre.
+- Persistir os dados em um banco MySQL.
 
+<div align="center"><img src="https://img.shields.io/badge/✨_Funcionalidades-EC4899?style=for-the-badge&logoColor=white" alt="Funcionalidades" /></div>
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-1A1730?style=for-the-badge)
+<br/>
 
+<div align="center">
 
+| Funcionalidade | Status |
+| :--- | :---: |
+| Tela inicial (busca + favoritos + lista) | ✅ |
+| Cadastro de contato | ✅ |
+| Detalhes do contato | ✅ |
+| Edição e exclusão | ✅ |
 
-Aplicação principal da **Carroll Studios**: organiza contatos pessoais, com favoritos exibidos em forma de constelação.
+</div>
 
-## 📦 Repositórios da Organização
+<img src="./resources/images/star-divider-3.svg" width="100%" alt="" />
 
-- [sistema-login](../sistema-login)
-- **agenda-contatos** 👈 você está aqui
-- [projeto-livre](../projeto-livre)
+<div align="center"><img src="https://img.shields.io/badge/🛠️_Tecnologias-6D28D9?style=for-the-badge&logoColor=white" alt="Tecnologias" /></div>
 
-## 🎯 Objetivos
+<br/>
 
-- Cadastrar, listar, pesquisar, atualizar e excluir contatos
-- Aplicar os conceitos de Programação Orientada a Objetos trabalhados no semestre
-- Persistir os dados em um banco MySQL
-- Interface gráfica construída com Java Swing
+<div align="center">
 
-## ✨ Funcionalidades
+☕ **Java** &nbsp;•&nbsp; 🪟 **Java Swing** &nbsp;•&nbsp; 🗄️ **MySQL** &nbsp;•&nbsp; 🐙 **Git & GitHub**
 
-- **Cadastro de contatos** — nome, telefone, e-mail, categoria, aniversário e observação
-- **Favoritos em constelação** — contatos favoritos aparecem conectados como uma pequena constelação na tela inicial
-- **Busca** de contatos pelo nome
-- **Edição e exclusão** de contatos, com tela de confirmação
-- **Validação visual** nos campos do formulário (borda roxa = válido, vermelha = inválido)
+</div>
 
-## 🖼️ Telas do projeto
+<img src="./resources/images/star-divider-1.svg" width="100%" alt="" />
 
-| Tela | Status |
-|---|---|
-| Tela inicial (busca + favoritos + lista) | ✅ Projetada e prototipada |
-| Novo contato | ✅ Projetada e prototipada |
-| Detalhes do contato | ✅ Projetada e prototipada |
-| Editar contato | ✅ Projetada e prototipada |
-| Confirmar exclusão | ✅ Projetada e prototipada |
+<div align="center"><img src="https://img.shields.io/badge/📂_Estrutura%20do%20Reposit%C3%B3rio-8B5CF6?style=for-the-badge&logoColor=white" alt="Estrutura do Repositório" /></div>
 
-## 🛠️ Tecnologias
+<br/>
 
-Java · Java Swing · MySQL · Git e GitHub
-
-> Um protótipo em HTML/CSS também foi usado só como ferramenta de design, pra validar as telas antes de implementar — a tecnologia final do projeto é 100% Java/Swing/MySQL.
-
-## 🚀 Como executar
-
-1. Abra o projeto no NetBeans (ou outra IDE Java)
-2. Configure a conexão com o banco MySQL (ver pasta `database/`)
-3. Rode a classe principal (`Main`)
-
-## 🌿 Branches deste projeto
-
-Cada funcionalidade vira uma branch própria (ex: `feature/tela-inicial`, `feature/cadastro-contato`, `feature/cadastro-banco`). Toda mudança entra na `main` só depois de um Pull Request revisado pela equipe.
-
-## 📂 Estrutura de pastas
+```text
+agenda-contatos/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── src/
+├── resources/
+├── database/
+├── docs/
+└── support/
